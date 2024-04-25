@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+.cabeçalho {
+    background-color: #483bbd;
+    display: flex;
+    padding: 24px 0;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabeçalho-título {
+    color: #6ce1e6;
+    font-size: 48px;
+}
+
+.cabeçalho-lista {
+    color: white;
+    font-size: 24px;
+}
+
+.cabeçalho-lista-item1 {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.cabeçalho-lista-item2 {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.cabeçalho-imagem {
+    width: 10%;
+}
